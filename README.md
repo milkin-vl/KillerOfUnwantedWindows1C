@@ -51,7 +51,7 @@
     <Item Title="доступ к информационной базе" KillAction="CloseProcess" InactivatePeriodLimitSeconds="0" LifePeriodLimitSeconds="600"/>
     <Item Title="загрузка конфигурационной информации..." KillAction="CloseProcess" InactivatePeriodLimitSeconds="0" LifePeriodLimitSeconds="600"/>
 </UnwantedTitles>
-
+```
 Что означает:
 * Закрывать окно 1С с заголовком "1с:предприятие. доступ к информационной базе", которое висит более 30 (+15) секунд при неактивном пользователе.
 * Закрывать окно 1С с заголовком "1с:предприятие. доступ к информационной базе" висит более 120 (+15) секунд в любом случае.
