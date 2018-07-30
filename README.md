@@ -1,4 +1,4 @@
-# KillerOfUnwantedWindows1C #
+# Killer of unwanted windows 1C #
 Программа "Убийца нежелательных окон 1С"
 
 ## Проблема, которую решает программа
